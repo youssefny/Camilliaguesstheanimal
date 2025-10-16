@@ -1,2 +1,0 @@
-# Camilliaguesstheanimal
-Animal game
